@@ -33,10 +33,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: red;
+    background-color: rgb(213, 98, 10);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: black 5px 5px;
+    box-shadow: rgb(255, 255, 255) 5px 5px;
     width: 30%;
     margin-bottom: 20px;
   }
@@ -61,7 +61,7 @@
     border-radius: 8px;
     cursor: pointer;
     color: white;
-    background-color: rgb(60, 61, 61);
+    background-color: rgb(4, 29, 170);
     width: 20%;
   }
   
@@ -72,7 +72,7 @@
     width: 100%;
     min-height: 300px;
     padding: 10px;
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(21, 20, 20);
     color: white;
     border-radius: 5px;
     margin-top: 5vh;
